@@ -1,7 +1,5 @@
 .venv/
-agent.py
+__pycache__/
+.env
 agent_log.jsonl
-docs/
 metrics.csv
-tests.py
-tools.py
