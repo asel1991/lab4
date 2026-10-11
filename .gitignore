@@ -1,0 +1,7 @@
+.venv/
+agent.py
+agent_log.jsonl
+docs/
+metrics.csv
+tests.py
+tools.py
